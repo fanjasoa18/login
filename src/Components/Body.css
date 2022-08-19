@@ -1,0 +1,79 @@
+.header {
+    width: 99.90vw;
+    height: 20%;
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+}
+.up {
+    margin-left: 77%;
+    margin-top: 15px;
+    padding: 0 20px;
+    height: 7vh;
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.content {
+    padding: 2px 0 0 20px;
+    margin-top: 2%;
+    margin-left: 35%;
+    width: 30vw;
+    height: 75vh;
+    background-color: rgb(0, 0, 0,0.100);
+    text-align: center;
+}
+.content p {
+    font-size: larger;
+    font-weight: 700;
+    color: yellow;
+}
+.content input {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    width: 27.5vw;
+    height: 5vh;
+    margin-bottom: 2%;
+    border-radius: 12px;
+}
+.content .color {
+    color: rgb(2, 160, 246);
+}
+.content .foot {
+    color: rgb(8, 238, 8);
+    margin-top: 30%;
+    margin-right: 35%;
+}
+.In {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    width: 28vw;
+    height: 5vh;
+    margin-bottom: 2%; 
+    border-radius: 12px;
+    padding-left: 43%;
+    padding-top: 2%;
+    margin-top: 4%;
+    background-color: rgb(210, 210, 210);
+}
+.contour {
+    display: flex;
+    flex-direction: row;
+    margin-right: 2%;
+
+}
+.contour .second {
+    display: flex;
+    flex-direction: row;
+    width: 10vw;
+    margin-left: 3%;
+    border-radius: 2%;
+}
+.fa-google, .fa-facebook, .fa-github {
+    padding-top: 13%;
+}
+.clic {
+    margin-left: 10%;
+}
